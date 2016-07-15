@@ -17,7 +17,7 @@ Teremos 1 aula sobre conceitos de programação funcional exemplificada com [Qua
 
 > O que você acha desse formato?
 
-Nesse primeiro meetup iremos trazer diretamente de Joinvile o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
+Nesse primeiro meetup iremos trazer diretamente de Joinville o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
 
 ## Custos
 
