@@ -1,6 +1,11 @@
 # Meetup-FP
 Meetup de Programação Funcional da Webschool
 
+A ideia desse meetup é um pouco diferente.
+
+Teremos 1 aula sobre conceitos de programação funcional exemplificada com [Quack](https://github.com/quack/quack), linguagem criada pelo nosso professor [Marcelo Camargo](https://github.com/haskellcamargo), para que depois façamos 1 DOJO para implementar **cada conceito** em JavaScript. <3
+
+> O que você acha desse formato?
 
 Nesse primeiro meetup iremos trazer diretamente de Floripa o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
 
