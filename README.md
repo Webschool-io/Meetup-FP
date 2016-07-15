@@ -13,5 +13,5 @@ Logo estou levantando os custos pra a vinda do nosso professor, onde ficará:
 
 E teremos um limite de 30 participantes, tendo um custo por participante de R$20. Acredito que 20 reais por mais de 2 horas de aula **FUDIDA** sobre FP tá bem barato né não?!!!
 
-**Então aproveite, nos ajude a te ajudar!**
+**Então aproveite, nos ajude a te ajudar!** [http://www.eventick.com.br/meetup-fp-sampa-agosto-2016](http://www.eventick.com.br/meetup-fp-sampa-agosto-2016)
 
