@@ -8,7 +8,8 @@ Logo estou levantando os custos pra a vinda do nosso professor, onde ficará:
 
 - [passagens de avião](http://www.decolar.com/shop/flights/results/roundtrip/FLN/SAO/2016-08-27/2016-08-28/1/0/0?from=SB): R$300
 - diária hotel: R$200
-- alimentação: R$100
+- alimentação: R50
+- taxas: R$50
 - total: R$600
 
 E teremos um limite de 30 participantes, tendo um custo por participante de R$20. Acredito que 20 reais por mais de 2 horas de aula **FUDIDA** sobre FP tá bem barato né não?!!!
