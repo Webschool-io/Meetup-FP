@@ -1,6 +1,16 @@
 # Meetup-FP
 Meetup de Programação Funcional da Webschool
 
+
+## Informações
+
+- Data: 27/Agosto/2016
+- Professor: [Marcelo Camargo](https://github.com/haskellcamargo)
+- Linguagem: [Quack](https://github.com/quack/quack)
+- DOJO: JavaScript
+
+## Ideia
+
 A ideia desse meetup é um pouco diferente.
 
 Teremos 1 aula sobre conceitos de programação funcional exemplificada com [Quack](https://github.com/quack/quack), linguagem criada pelo nosso professor [Marcelo Camargo](https://github.com/haskellcamargo), para que depois façamos 1 DOJO para implementar **cada conceito** em JavaScript. <3
@@ -8,6 +18,8 @@ Teremos 1 aula sobre conceitos de programação funcional exemplificada com [Qua
 > O que você acha desse formato?
 
 Nesse primeiro meetup iremos trazer diretamente de Floripa o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
+
+## Custos
 
 Logo estou levantando os custos pra a vinda do nosso professor, onde ficará:
 
@@ -20,3 +32,6 @@ E teremos um limite de 30 participantes, tendo um custo por participante de R$20
 
 **Então aproveite, nos ajude a te ajudar!** [http://www.eventick.com.br/meetup-fp-sampa-agosto-2016](http://www.eventick.com.br/meetup-fp-sampa-agosto-2016)
 
+## Local
+
+**Praça da Sé, 371 - primeiro andar**
