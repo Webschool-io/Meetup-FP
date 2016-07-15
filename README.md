@@ -17,13 +17,13 @@ Teremos 1 aula sobre conceitos de programação funcional exemplificada com [Qua
 
 > O que você acha desse formato?
 
-Nesse primeiro meetup iremos trazer diretamente de Floripa o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
+Nesse primeiro meetup iremos trazer diretamente de Joinvile o mestre [Marcelo Camargo](https://github.com/haskellcamargo) e para isso vamos precisar da **SUA** ajuda, já que a Webschool é uma escola **DA** comunidade **PARA** a comunidade contamos **APENAS** com vocês para fazer as coisas acontecerem.
 
 ## Custos
 
 Logo estou levantando os custos pra a vinda do nosso professor, onde ficará:
 
-- [passagens de avião](http://www.decolar.com/shop/flights/results/roundtrip/FLN/SAO/2016-08-27/2016-08-28/1/0/0?from=SB): R$300
+- [passagens de avião](http://www.decolar.com/shop/flights/results/roundtrip/JOI/SAO/2016-08-27/2016-08-28/1/0/0?from=SB): R$300
 - diária hotel: R$200
 - alimentação: R100
 - total: R$600
